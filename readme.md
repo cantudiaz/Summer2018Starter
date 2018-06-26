@@ -2,7 +2,7 @@
 
 This is a sample student repository for the Wolfram Summer School 2018. You can clone or fork this repository to get started
 
-Thing to do to get started with GIT:
+Thing to do to get started with GIT: hi hi hi hi hi hi 
 
 ## Create a GitHub account
 https://github.com/join
